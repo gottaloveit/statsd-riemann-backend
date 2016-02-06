@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "jslint": "^0.9.0-pre005",
-    "riemann": "^0.5.1",
+    "riemann": "git+https://github.com/lovell/riemann-nodejs-client.git#node-protobuf",
     "underscore": "^1.7.0"
   },
   "devDependencies": {
